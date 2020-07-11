@@ -14,6 +14,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently merged pull requests
 
 <!-- prs starts -->
+* 10 Jul 2020 [mdx-js/mdx](https://github.com/mdx-js/mdx) - [ci: Github CI Fixes](https://github.com/mdx-js/mdx/pull/1134)
+* 04 Jul 2020 [distr1/distri](https://github.com/distr1/distri) - [CI improvements: branch building and go install check](https://github.com/distr1/distri/pull/79)
+* 29 May 2020 [islomar/tcr-workshop](https://github.com/islomar/tcr-workshop) - [Rust example](https://github.com/islomar/tcr-workshop/pull/4)
+* 28 May 2020 [AltSysrq/proptest](https://github.com/AltSysrq/proptest) - [Nightly fixes](https://github.com/AltSysrq/proptest/pull/191)
+* 26 May 2020 [twisted/axiom](https://github.com/twisted/axiom) - [Lockdown Twisted supported versions for Python 2](https://github.com/twisted/axiom/pull/120)
 <!-- prs ends -->
 
 </td></tr></table>
