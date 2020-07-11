@@ -4,9 +4,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 
 ### On my blog
 <!-- blog starts -->
-* [Celebrating 100,000 downloads of serial_test](https://tevps.net/blog/2020/6/23/celebrating-100000-downloads-serial_test/) - June 23, 2020
-* [Virtually going to the pub](https://tevps.net/blog/2020/3/22/virtually-going-pub/) - March 22, 2020
-* [munger: Scan-to-cloud for local scanners](https://tevps.net/blog/2020/1/31/munger-scan-to-cloud-for-local-scanners/) - Jan. 31, 2020
+* 23 Jun 2020 [Celebrating 100,000 downloads of serial_test](https://tevps.net/blog/2020/6/23/celebrating-100000-downloads-serial_test/)
+* 22 Mar 2020 [Virtually going to the pub](https://tevps.net/blog/2020/3/22/virtually-going-pub/)
+* 31 Jan 2020 [munger: Scan-to-cloud for local scanners](https://tevps.net/blog/2020/1/31/munger-scan-to-cloud-for-local-scanners/)
+* 06 Jan 2020 [Weird software licenses you may have not tried yet](https://tevps.net/blog/2020/1/6/weird-software-licenses-you-may-have-not-tried-yet/)
+* 06 Jan 2020 [How to get a 10x developer](https://tevps.net/blog/2020/1/6/how-to-get-a-10x-developer/)
 <!-- blog ends -->
 
 </td><td valign="top">

@@ -4,6 +4,7 @@ import pprint
 import re
 
 import dateutil.parser
+import feedparser
 import requests
 
 root = pathlib.Path(__file__).parent.resolve()
@@ -20,6 +21,16 @@ def replace_chunk(content, marker, chunk, inline=False):
         marker, chunk, marker
     )
     return r.sub(chunk, content)
+
+
+def fetch_blog_entries():
+    entries = feedparser.parse("https://tevps.net/rss")["entries"][:5]
+    return "\n".join(
+        [
+            f"* {dateutil.parser.parse(entry['published']):%d %b %Y} [{entry['title']}]({entry['link']})"
+            for entry in entries
+        ]
+    )
 
 
 def fetch_prs():
@@ -61,5 +72,6 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
 
     rewritten = replace_chunk(readme_contents, "prs", fetch_prs())
+    rewritten = replace_chunk(rewritten, "blog", fetch_blog_entries())
 
     readme.open("w").write(rewritten)
