@@ -2,7 +2,7 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 
 <table><tr><td valign="top">
 
-### On my blog
+### On [my blog](https://tevps.net/blog)
 <!-- blog starts -->
 * 23 Jun 2020 [Celebrating 100,000 downloads of serial_test](https://tevps.net/blog/2020/6/23/celebrating-100000-downloads-serial_test/)
 * 22 Mar 2020 [Virtually going to the pub](https://tevps.net/blog/2020/3/22/virtually-going-pub/)
@@ -13,7 +13,7 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 
 </td><td valign="top">
 
-### Recently merged pull requests
+### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
 * 10 Jul 2020 [mdx-js/mdx](https://github.com/mdx-js/mdx) - [ci: Github CI Fixes](https://github.com/mdx-js/mdx/pull/1134)
