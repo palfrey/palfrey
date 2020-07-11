@@ -28,8 +28,10 @@ jobs:
         python -m pip install -r requirements.txt
     - name: Update README
       run: |-
-        python build_readme.py
+        make rebuild
         cat README.md
+    - name: Check precommit
+      run: make pre-commit
     - name: Commit and push if changed
       run: |-
         git diff
