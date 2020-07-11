@@ -3,3 +3,6 @@ compile-requirements:
 
 pre-commit:
 	pre-commit run -a
+
+rebuild:
+	python build_readme.py
