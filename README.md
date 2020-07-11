@@ -25,4 +25,4 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 
 </td></tr></table>
 
-<a href="https://github.com/palfrey/palfrey/actions"><img src="https://github.com/palfrey/palfrey/workflows/Build%20README/badge.svg?branch=master" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
+<a href="https://github.com/palfrey/palfrey/actions"><img src="https://github.com/palfrey/palfrey/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a> <a href="https://tevps.net/blog/2020/7/11/customising-github-profile-pages/">How this works</a>
