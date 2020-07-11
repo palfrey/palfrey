@@ -1,11 +1,13 @@
-import pathlib
-import re
-import requests
-import pprint
 import json
+import pathlib
+import pprint
+import re
+
 import dateutil.parser
+import requests
 
 root = pathlib.Path(__file__).parent.resolve()
+
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
@@ -14,8 +16,11 @@ def replace_chunk(content, marker, chunk, inline=False):
     )
     if not inline:
         chunk = "\n{}\n".format(chunk)
-    chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
+    chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(
+        marker, chunk, marker
+    )
     return r.sub(chunk, content)
+
 
 def fetch_prs():
     try:
@@ -38,9 +43,14 @@ def fetch_prs():
             repos[repo_url] = data.json()
             json.dump(repos, open("repos.json", "w"), sort_keys=True, indent=4)
         repo = repos[repo_url]
-        #pprint.pprint(pr)
-        prs.append((pr['closed_at'], f"* {dateutil.parser.isoparse(pr['closed_at']):%d %b %Y} [{repo['full_name']}]({repo['html_url']}) - [{pr['title']}]({pr['html_url']})"))
-        #break
+        # pprint.pprint(pr)
+        prs.append(
+            (
+                pr["closed_at"],
+                f"* {dateutil.parser.isoparse(pr['closed_at']):%d %b %Y} [{repo['full_name']}]({repo['html_url']}) - [{pr['title']}]({pr['html_url']})",
+            )
+        )
+        # break
     prs.sort(reverse=True)
 
     return "\n".join([pr[1] for pr in prs[:5]])
