@@ -52,7 +52,9 @@ def fetch_prs():
             data = requests.get(repo_url)
             data.raise_for_status()
             repos[repo_url] = data.json()
-            json.dump(repos, open("repos.json", "w"), sort_keys=True, indent=4)
+            with open("repos.json", "w") as fp:
+                json.dump(repos, fp, sort_keys=True, indent=4)
+                fp.write("\n")
         repo = repos[repo_url]
         # pprint.pprint(pr)
         prs.append(
