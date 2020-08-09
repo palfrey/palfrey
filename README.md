@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 09 Aug 2020 [theimpossibleastronaut/configster](https://github.com/theimpossibleastronaut/configster) - [Add colouring to example blocks](https://github.com/theimpossibleastronaut/configster/pull/9)
 * 04 Aug 2020 [smart-on-fhir/fhir-parser](https://github.com/smart-on-fhir/fhir-parser) - [Add CI](https://github.com/smart-on-fhir/fhir-parser/pull/43)
 * 13 Jul 2020 [distr1/distri](https://github.com/distr1/distri) - [Architecture detection with runtime.GOARCH](https://github.com/distr1/distri/pull/81)
 * 10 Jul 2020 [mdx-js/mdx](https://github.com/mdx-js/mdx) - [ci: Github CI Fixes](https://github.com/mdx-js/mdx/pull/1134)
 * 04 Jul 2020 [distr1/distri](https://github.com/distr1/distri) - [CI improvements: branch building and go install check](https://github.com/distr1/distri/pull/79)
-* 29 May 2020 [islomar/tcr-workshop](https://github.com/islomar/tcr-workshop) - [Rust example](https://github.com/islomar/tcr-workshop/pull/4)
 <!-- prs ends -->
 
 </td></tr></table>
