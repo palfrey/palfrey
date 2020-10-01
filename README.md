@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 01 Oct 2020 [brushtechnology/fabricate](https://github.com/brushtechnology/fabricate) - [Check if AtimesRunner works with directories](https://github.com/brushtechnology/fabricate/pull/98)
+* 01 Oct 2020 [brushtechnology/fabricate](https://github.com/brushtechnology/fabricate) - [Rename everything over to brushtechnology](https://github.com/brushtechnology/fabricate/pull/100)
 * 29 Sep 2020 [deps-rs/deps.rs](https://github.com/deps-rs/deps.rs) - [Update all the links to the new organisation](https://github.com/deps-rs/deps.rs/pull/47)
 * 20 Sep 2020 [mopemope/firestarter](https://github.com/mopemope/firestarter) - [Add Travis build](https://github.com/mopemope/firestarter/pull/2)
 * 11 Sep 2020 [nivekuil/rip](https://github.com/nivekuil/rip) - [Fix travis build](https://github.com/nivekuil/rip/pull/19)
-* 09 Aug 2020 [theimpossibleastronaut/configster](https://github.com/theimpossibleastronaut/configster) - [Add colouring to example blocks](https://github.com/theimpossibleastronaut/configster/pull/9)
-* 04 Aug 2020 [smart-on-fhir/fhir-parser](https://github.com/smart-on-fhir/fhir-parser) - [Add CI](https://github.com/smart-on-fhir/fhir-parser/pull/43)
 <!-- prs ends -->
 
 </td></tr></table>
