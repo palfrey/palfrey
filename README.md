@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 16 Oct 2020 [home-assistant/core](https://github.com/home-assistant/core) - [Don't try and store exceptions when the key is missing](https://github.com/home-assistant/core/pull/41803)
 * 10 Oct 2020 [mopemope/firestarter](https://github.com/mopemope/firestarter) - [Readme fixes](https://github.com/mopemope/firestarter/pull/3)
 * 05 Oct 2020 [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery) - [Add type support and mypy checking](https://github.com/model-bakers/model_bakery/pull/100)
 * 01 Oct 2020 [brushtechnology/fabricate](https://github.com/brushtechnology/fabricate) - [Check if AtimesRunner works with directories](https://github.com/brushtechnology/fabricate/pull/98)
 * 01 Oct 2020 [brushtechnology/fabricate](https://github.com/brushtechnology/fabricate) - [Rename everything over to brushtechnology](https://github.com/brushtechnology/fabricate/pull/100)
-* 29 Sep 2020 [deps-rs/deps.rs](https://github.com/deps-rs/deps.rs) - [Update all the links to the new organisation](https://github.com/deps-rs/deps.rs/pull/47)
 <!-- prs ends -->
 
 </td></tr></table>
