@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 22 Nov 2020 [HomeAssistant-Mods/home-assistant-miele](https://github.com/HomeAssistant-Mods/home-assistant-miele) - [Async refresh token](https://github.com/HomeAssistant-Mods/home-assistant-miele/pull/9)
 * 13 Nov 2020 [beda-software/drf-writable-nested](https://github.com/beda-software/drf-writable-nested) - [Add minimal typing support to pass mypy checks](https://github.com/beda-software/drf-writable-nested/pull/127)
 * 13 Nov 2020 [mheap/github-release-dashboard](https://github.com/mheap/github-release-dashboard) - [Retitle from "React App" to "github-release-dashboard"](https://github.com/mheap/github-release-dashboard/pull/1)
 * 05 Nov 2020 [home-assistant/core](https://github.com/home-assistant/core) - [Fix circular import of config_validation and template](https://github.com/home-assistant/core/pull/41802)
 * 22 Oct 2020 [day8/re-frame-10x](https://github.com/day8/re-frame-10x) - [Upgrade zprint to 1.0.1](https://github.com/day8/re-frame-10x/pull/283)
-* 22 Oct 2020 [day8/re-frame-10x](https://github.com/day8/re-frame-10x) - [Make the github testing run on PRs as well](https://github.com/day8/re-frame-10x/pull/284)
 <!-- prs ends -->
 
 </td></tr></table>
