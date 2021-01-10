@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 10 Jan 2021 [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra) - [Document ssh_hostname option](https://github.com/Fizzadar/pyinfra/pull/513)
 * 30 Dec 2020 [thheller/shadow-cljs](https://github.com/thheller/shadow-cljs) - [karma: If a test fails with exception, print the stacktrace](https://github.com/thheller/shadow-cljs/pull/814)
 * 05 Dec 2020 [RockstarLang/rockstar](https://github.com/RockstarLang/rockstar) - [Fix the ignore for temporary files](https://github.com/RockstarLang/rockstar/pull/220)
 * 03 Dec 2020 [funcool/buddy-core](https://github.com/funcool/buddy-core) - [Reflection fixes](https://github.com/funcool/buddy-core/pull/53)
 * 02 Dec 2020 [flz/iaqualink-py](https://github.com/flz/iaqualink-py) - [Always cleanup client session, even on Exception](https://github.com/flz/iaqualink-py/pull/7)
-* 22 Nov 2020 [HomeAssistant-Mods/home-assistant-miele-OLD-FORK-DO-NOT-USE](https://github.com/HomeAssistant-Mods/home-assistant-miele-OLD-FORK-DO-NOT-USE) - [Async refresh token](https://github.com/HomeAssistant-Mods/home-assistant-miele-OLD-FORK-DO-NOT-USE/pull/9)
 <!-- prs ends -->
 
 </td></tr></table>
