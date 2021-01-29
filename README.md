@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 29 Jan 2021 [solana-labs/solana](https://github.com/solana-labs/solana) - [Remove serial_test_derive dependency](https://github.com/solana-labs/solana/pull/14891)
 * 28 Jan 2021 [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) - [Remove serial_test_derive dependency](https://github.com/rust-skia/rust-skia/pull/463)
 * 28 Jan 2021 [typeddjango/djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) - [Fix model Meta type](https://github.com/typeddjango/djangorestframework-stubs/pull/127)
 * 28 Jan 2021 [gtk-rs/gtk-rs](https://github.com/gtk-rs/gtk-rs) - [Don't need serial_test_derive](https://github.com/gtk-rs/gtk-rs/pull/273)
 * 28 Jan 2021 [jonhoo/fantoccini](https://github.com/jonhoo/fantoccini) - [Remove serial_test_derive dependency](https://github.com/jonhoo/fantoccini/pull/122)
-* 22 Jan 2021 [operatehappy/packer-github-actions](https://github.com/operatehappy/packer-github-actions) - [Add support for working_directory](https://github.com/operatehappy/packer-github-actions/pull/11)
 <!-- prs ends -->
 
 </td></tr></table>
