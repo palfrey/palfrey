@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 27 Mar 2021 [Styria-Digital/django-rest-framework-jwt](https://github.com/Styria-Digital/django-rest-framework-jwt) - [django.utils.six -> six](https://github.com/Styria-Digital/django-rest-framework-jwt/pull/90)
 * 17 Mar 2021 [rustyhorde/vergen](https://github.com/rustyhorde/vergen) - [Make some loose versions in Cargo.toml slightly more accurate](https://github.com/rustyhorde/vergen/pull/56)
 * 14 Feb 2021 [home-assistant/core](https://github.com/home-assistant/core) - [Don't allow recursive secrets loading](https://github.com/home-assistant/core/pull/41812)
 * 29 Jan 2021 [solana-labs/solana](https://github.com/solana-labs/solana) - [Remove serial_test_derive dependency](https://github.com/solana-labs/solana/pull/14891)
 * 28 Jan 2021 [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) - [Remove serial_test_derive dependency](https://github.com/rust-skia/rust-skia/pull/463)
-* 28 Jan 2021 [typeddjango/djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) - [Fix model Meta type](https://github.com/typeddjango/djangorestframework-stubs/pull/127)
 <!-- prs ends -->
 
 </td></tr></table>
