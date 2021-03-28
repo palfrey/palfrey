@@ -1,25 +1,46 @@
-appdirs==1.4.4            # via virtualenv
-certifi==2020.6.20        # via requests
-cfgv==3.1.0               # via pre-commit
-chardet==3.0.4            # via requests
-click==7.1.2              # via pip-tools
-distlib==0.3.1            # via virtualenv
-feedparser==5.2.1         # via -r requirements.in
-filelock==3.0.12          # via virtualenv
-identify==1.4.23          # via pre-commit
-idna==2.10                # via requests
-importlib-metadata==1.7.0  # via pre-commit, virtualenv
-nodeenv==1.4.0            # via pre-commit
-pip-tools==5.2.1          # via -r requirements.in
-pre-commit==2.6.0         # via -r requirements.in
-python-dateutil==2.8.1    # via -r requirements.in
-pyyaml==5.3.1             # via pre-commit
-requests==2.24.0          # via -r requirements.in
-six==1.15.0               # via pip-tools, python-dateutil, virtualenv
-toml==0.10.1              # via pre-commit
-urllib3==1.25.9           # via requests
-virtualenv==20.0.26       # via pre-commit
-zipp==3.1.0               # via importlib-metadata
+appdirs==1.4.4
+    # via virtualenv
+certifi==2020.6.20
+    # via requests
+cfgv==3.1.0
+    # via pre-commit
+chardet==3.0.4
+    # via requests
+click==7.1.2
+    # via pip-tools
+distlib==0.3.1
+    # via virtualenv
+feedparser==5.2.1
+    # via -r requirements.in
+filelock==3.0.12
+    # via virtualenv
+identify==1.4.23
+    # via pre-commit
+idna==2.10
+    # via requests
+nodeenv==1.4.0
+    # via pre-commit
+pip-tools==5.2.1
+    # via -r requirements.in
+pre-commit==2.6.0
+    # via -r requirements.in
+python-dateutil==2.8.1
+    # via -r requirements.in
+pyyaml==5.4
+    # via pre-commit
+requests==2.24.0
+    # via -r requirements.in
+six==1.15.0
+    # via
+    #   pip-tools
+    #   python-dateutil
+    #   virtualenv
+toml==0.10.1
+    # via pre-commit
+urllib3==1.25.9
+    # via requests
+virtualenv==20.0.26
+    # via pre-commit
 
 # The following packages are considered to be unsafe in a requirements file:
 # pip
