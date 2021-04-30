@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 30 Apr 2021 [max/awesome-lint](https://github.com/max/awesome-lint) - [Add a link to the awesome-lint tool](https://github.com/max/awesome-lint/pull/4)
 * 23 Apr 2021 [Julius2342/pyvlx](https://github.com/Julius2342/pyvlx) - [Pylint fixes](https://github.com/Julius2342/pyvlx/pull/65)
 * 06 Apr 2021 [Tivix/django-cron](https://github.com/Tivix/django-cron) - [Test with Django 3.0.x](https://github.com/Tivix/django-cron/pull/161)
 * 06 Apr 2021 [Tivix/django-cron](https://github.com/Tivix/django-cron) - [Upgrade Travis config, and only run mysql/psql in relevant configs](https://github.com/Tivix/django-cron/pull/162)
 * 29 Mar 2021 [Styria-Digital/django-rest-framework-jwt](https://github.com/Styria-Digital/django-rest-framework-jwt) - [Add PyJWT 2.x support](https://github.com/Styria-Digital/django-rest-framework-jwt/pull/91)
-* 27 Mar 2021 [Styria-Digital/django-rest-framework-jwt](https://github.com/Styria-Digital/django-rest-framework-jwt) - [django.utils.six -> six](https://github.com/Styria-Digital/django-rest-framework-jwt/pull/90)
 <!-- prs ends -->
 
 </td></tr></table>
