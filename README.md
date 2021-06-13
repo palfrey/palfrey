@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 13 Jun 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Cron jobs to auto-approve for running, and retest the list](https://github.com/rust-unofficial/awesome-rust/pull/1098)
+* 13 Jun 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Remove Travis entirely](https://github.com/rust-unofficial/awesome-rust/pull/1099)
+* 13 Jun 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Fix all the other issues with README](https://github.com/rust-unofficial/awesome-rust/pull/1097)
 * 13 Jun 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Fix GitHub build](https://github.com/rust-unofficial/awesome-rust/pull/1080)
 * 07 Jun 2021 [thheller/shadow-cljs](https://github.com/thheller/shadow-cljs) - [karma: Add karma test to test-project run](https://github.com/thheller/shadow-cljs/pull/815)
-* 11 May 2021 [benknight/hue-python-rgb-converter](https://github.com/benknight/hue-python-rgb-converter) - [Update link to supported devices](https://github.com/benknight/hue-python-rgb-converter/pull/10)
-* 30 Apr 2021 [max/awesome-lint](https://github.com/max/awesome-lint) - [Add a link to the awesome-lint tool](https://github.com/max/awesome-lint/pull/4)
-* 23 Apr 2021 [Julius2342/pyvlx](https://github.com/Julius2342/pyvlx) - [Pylint fixes](https://github.com/Julius2342/pyvlx/pull/65)
 <!-- prs ends -->
 
 </td></tr></table>
