@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 26 Jun 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Checker: Don't retry 429's and don't worry about them if we've got a previous success](https://github.com/rust-unofficial/awesome-rust/pull/1106)
 * 24 Jun 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Fixes errors with pdbtbx and prost](https://github.com/rust-unofficial/awesome-rust/pull/1101)
 * 13 Jun 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Cron jobs to auto-approve for running, and retest the list](https://github.com/rust-unofficial/awesome-rust/pull/1098)
 * 13 Jun 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Remove Travis entirely](https://github.com/rust-unofficial/awesome-rust/pull/1099)
 * 13 Jun 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Fix all the other issues with README](https://github.com/rust-unofficial/awesome-rust/pull/1097)
-* 13 Jun 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Fix GitHub build](https://github.com/rust-unofficial/awesome-rust/pull/1080)
 <!-- prs ends -->
 
 </td></tr></table>
