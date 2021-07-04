@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 04 Jul 2021 [typeddjango/djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) - [Adds DjangoFilterBackend option for filter_backends](https://github.com/typeddjango/djangorestframework-stubs/pull/154)
 * 29 Jun 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Checker: Check the oldest/unchecked ones first](https://github.com/rust-unofficial/awesome-rust/pull/1109)
 * 28 Jun 2021 [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - [Cache-on-failure support](https://github.com/Swatinem/rust-cache/pull/22)
 * 26 Jun 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Checker: Don't retry 429's and don't worry about them if we've got a previous success](https://github.com/rust-unofficial/awesome-rust/pull/1106)
 * 24 Jun 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Fixes errors with pdbtbx and prost](https://github.com/rust-unofficial/awesome-rust/pull/1101)
-* 13 Jun 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Cron jobs to auto-approve for running, and retest the list](https://github.com/rust-unofficial/awesome-rust/pull/1098)
 <!-- prs ends -->
 
 </td></tr></table>
