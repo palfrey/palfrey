@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 11 Jul 2021 [FJNR-inc/dry-rest-permissions](https://github.com/FJNR-inc/dry-rest-permissions) - [Add type hints](https://github.com/FJNR-inc/dry-rest-permissions/pull/21)
 * 11 Jul 2021 [FJNR-inc/dry-rest-permissions](https://github.com/FJNR-inc/dry-rest-permissions) - [Actually use tox in travis build](https://github.com/FJNR-inc/dry-rest-permissions/pull/22)
 * 09 Jul 2021 [FJNR-inc/dry-rest-permissions](https://github.com/FJNR-inc/dry-rest-permissions) - [Add Python 3.9 support](https://github.com/FJNR-inc/dry-rest-permissions/pull/20)
 * 04 Jul 2021 [typeddjango/djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) - [Adds DjangoFilterBackend option for filter_backends](https://github.com/typeddjango/djangorestframework-stubs/pull/154)
 * 29 Jun 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Checker: Check the oldest/unchecked ones first](https://github.com/rust-unofficial/awesome-rust/pull/1109)
-* 28 Jun 2021 [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - [Cache-on-failure support](https://github.com/Swatinem/rust-cache/pull/22)
 <!-- prs ends -->
 
 </td></tr></table>
