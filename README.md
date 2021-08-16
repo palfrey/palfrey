@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 16 Aug 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Popularity filtering](https://github.com/rust-unofficial/awesome-rust/pull/1141)
 * 13 Aug 2021 [avito-tech/bioyino](https://github.com/avito-tech/bioyino) - [Add Github action to run tests](https://github.com/avito-tech/bioyino/pull/64)
 * 07 Aug 2021 [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - [Fix mdbook build](https://github.com/rustwasm/wasm-pack/pull/1046)
 * 03 Aug 2021 [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - [Automatically approve new PRs for running Github test actions](https://github.com/rustwasm/wasm-pack/pull/1028)
 * 03 Aug 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Sort the README and enforce it with the checker](https://github.com/rust-unofficial/awesome-rust/pull/1121)
-* 01 Aug 2021 [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - [Add typing support](https://github.com/kurtmckee/feedparser/pull/282)
 <!-- prs ends -->
 
 </td></tr></table>
