@@ -4,11 +4,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 
 ### On [my blog](https://tevps.net/blog)
 <!-- blog starts -->
+* 15 Sep 2021 [On Infrastructure: Terraform](https://tevps.net/blog/2021/9/15/on-infrastructure-terraform/)
 * 05 Apr 2021 [Theory of Mind in Numberblocks](https://tevps.net/blog/2021/4/5/theory-mind-numberblocks/)
 * 20 Feb 2021 [Immutable Systems Infrastructure, or how to mashup Kubernetes and Nix](https://tevps.net/blog/2021/2/20/immutable-systems-infrastructure-or-how-mashup-kub/)
 * 07 Sep 2020 [Scraping Lewishams bin days](https://tevps.net/blog/2020/9/7/scraping-lewishams-bin-days/)
 * 11 Jul 2020 [Customising Github profile pages](https://tevps.net/blog/2020/7/11/customising-github-profile-pages/)
-* 23 Jun 2020 [Celebrating 100,000 downloads of serial_test](https://tevps.net/blog/2020/6/23/celebrating-100000-downloads-serial_test/)
 <!-- blog ends -->
 
 </td><td valign="top">
