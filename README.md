@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 26 Sep 2021 [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - [Enables CI on PRs](https://github.com/hoodie/notify-rust/pull/117)
 * 02 Sep 2021 [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - [Run linting for editorconfig in CI](https://github.com/SchemaStore/schemastore/pull/1808)
 * 31 Aug 2021 [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - [Remove direct usage of serial_test_derive](https://github.com/rustwasm/wasm-pack/pull/966)
 * 31 Aug 2021 [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - [Add "replacements" options for Kustomization](https://github.com/SchemaStore/schemastore/pull/1807)
 * 16 Aug 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Popularity filtering](https://github.com/rust-unofficial/awesome-rust/pull/1141)
-* 13 Aug 2021 [avito-tech/bioyino](https://github.com/avito-tech/bioyino) - [Add Github action to run tests](https://github.com/avito-tech/bioyino/pull/64)
 <!-- prs ends -->
 
 </td></tr></table>
