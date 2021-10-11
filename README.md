@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 11 Oct 2021 [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - [Remove memmap dependency](https://github.com/meilisearch/MeiliSearch/pull/1793)
 * 10 Oct 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Add hacktoberfest helper](https://github.com/rust-unofficial/awesome-rust/pull/1172)
 * 10 Oct 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Replace runtime with it's successor async-std](https://github.com/rust-unofficial/awesome-rust/pull/1171)
 * 09 Oct 2021 [Peltoche/lsd](https://github.com/Peltoche/lsd) - [Cope with chrono panics due to weird dates](https://github.com/Peltoche/lsd/pull/558)
 * 08 Oct 2021 [Peltoche/lsd](https://github.com/Peltoche/lsd) - [Up minimum version in build.rs to 1.43.0](https://github.com/Peltoche/lsd/pull/561)
-* 08 Oct 2021 [Peltoche/lsd](https://github.com/Peltoche/lsd) - [Remove Travis config](https://github.com/Peltoche/lsd/pull/559)
 <!-- prs ends -->
 
 </td></tr></table>
