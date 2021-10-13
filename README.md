@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 13 Oct 2021 [meilisearch/milli](https://github.com/meilisearch/milli) - [Replace memmap with memmap2](https://github.com/meilisearch/milli/pull/384)
 * 12 Oct 2021 [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - [Add blog post about "awesome" Rust options for Hacktoberfest](https://github.com/rust-lang/this-week-in-rust/pull/2489)
 * 12 Oct 2021 [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - [CI setup](https://github.com/rustdesk/rustdesk/pull/253)
 * 11 Oct 2021 [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - [Remove memmap dependency](https://github.com/meilisearch/MeiliSearch/pull/1793)
 * 10 Oct 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Add hacktoberfest helper](https://github.com/rust-unofficial/awesome-rust/pull/1172)
-* 10 Oct 2021 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Replace runtime with it's successor async-std](https://github.com/rust-unofficial/awesome-rust/pull/1171)
 <!-- prs ends -->
 
 </td></tr></table>
