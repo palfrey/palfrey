@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 24 Oct 2021 [quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy) - [Remove travis config](https://github.com/quickwit-inc/tantivy/pull/1180)
 * 18 Oct 2021 [hannobraun/inotify-rs](https://github.com/hannobraun/inotify-rs) - [Redo build status badge with Github actions, not Travis](https://github.com/hannobraun/inotify-rs/pull/185)
 * 13 Oct 2021 [meilisearch/milli](https://github.com/meilisearch/milli) - [Replace memmap with memmap2](https://github.com/meilisearch/milli/pull/384)
 * 12 Oct 2021 [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - [Add blog post about "awesome" Rust options for Hacktoberfest](https://github.com/rust-lang/this-week-in-rust/pull/2489)
 * 12 Oct 2021 [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - [CI setup](https://github.com/rustdesk/rustdesk/pull/253)
-* 11 Oct 2021 [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - [Remove memmap dependency](https://github.com/meilisearch/MeiliSearch/pull/1793)
 <!-- prs ends -->
 
 </td></tr></table>
