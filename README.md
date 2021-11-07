@@ -4,11 +4,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 
 ### On [my blog](https://tevps.net/blog)
 <!-- blog starts -->
+* 07 Nov 2021 [PoC Terraform Provider in Rust](https://tevps.net/blog/2021/11/7/poc-terraform-provider-rust/)
 * 17 Oct 2021 [On Infrastructure: Mitogen](https://tevps.net/blog/2021/10/17/infrastructure-mitogen/)
 * 10 Oct 2021 [Awesome Rust projects for Hacktoberfest](https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/)
 * 30 Sep 2021 [Paternoster](https://tevps.net/blog/2021/9/30/paternoster/)
 * 15 Sep 2021 [On Infrastructure: Terraform](https://tevps.net/blog/2021/9/15/on-infrastructure-terraform/)
-* 05 Apr 2021 [Theory of Mind in Numberblocks](https://tevps.net/blog/2021/4/5/theory-mind-numberblocks/)
 <!-- blog ends -->
 
 </td><td valign="top">
