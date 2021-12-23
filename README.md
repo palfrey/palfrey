@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 23 Dec 2021 [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - [Run Github actions on master](https://github.com/gorakhargosh/watchdog/pull/863)
 * 02 Nov 2021 [uutils/coreutils](https://github.com/uutils/coreutils) - [Fix FreeBSD build by downgrading MacOS version](https://github.com/uutils/coreutils/pull/2734)
 * 25 Oct 2021 [dalance/procs](https://github.com/dalance/procs) - [Remove Travis config](https://github.com/dalance/procs/pull/197)
 * 24 Oct 2021 [quakkels/rssdiscoveryengine](https://github.com/quakkels/rssdiscoveryengine) - [Upgrade requests to 2.26](https://github.com/quakkels/rssdiscoveryengine/pull/17)
 * 24 Oct 2021 [quakkels/rssdiscoveryengine](https://github.com/quakkels/rssdiscoveryengine) - [Add basic CI](https://github.com/quakkels/rssdiscoveryengine/pull/15)
-* 24 Oct 2021 [quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy) - [Remove travis config](https://github.com/quickwit-inc/tantivy/pull/1180)
 <!-- prs ends -->
 
 </td></tr></table>
