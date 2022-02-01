@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 01 Feb 2022 [twisted/axiom](https://github.com/twisted/axiom) - [Python 3 port](https://github.com/twisted/axiom/pull/119)
 * 26 Jan 2022 [python/typeshed](https://github.com/python/typeshed) - [Set readline arg to be optionally None](https://github.com/python/typeshed/pull/7041)
 * 24 Dec 2021 [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - [Fix pypy CI version](https://github.com/gorakhargosh/watchdog/pull/864)
 * 23 Dec 2021 [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - [Run Github actions on master](https://github.com/gorakhargosh/watchdog/pull/863)
 * 02 Nov 2021 [uutils/coreutils](https://github.com/uutils/coreutils) - [Fix FreeBSD build by downgrading MacOS version](https://github.com/uutils/coreutils/pull/2734)
-* 25 Oct 2021 [dalance/procs](https://github.com/dalance/procs) - [Remove Travis config](https://github.com/dalance/procs/pull/197)
 <!-- prs ends -->
 
 </td></tr></table>
