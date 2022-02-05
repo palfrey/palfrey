@@ -4,11 +4,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 
 ### On [my blog](https://tevps.net/blog)
 <!-- blog starts -->
-* 07 Nov 2021 [PoC Terraform Provider in Rust](https://tevps.net/blog/2021/11/7/poc-terraform-provider-rust/)
-* 17 Oct 2021 [On Infrastructure: Mitogen](https://tevps.net/blog/2021/10/17/infrastructure-mitogen/)
-* 10 Oct 2021 [Awesome Rust projects for Hacktoberfest](https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/)
-* 30 Sep 2021 [Paternoster](https://tevps.net/blog/2021/9/30/paternoster/)
-* 15 Sep 2021 [On Infrastructure: Terraform](https://tevps.net/blog/2021/9/15/on-infrastructure-terraform/)
+* 16 Jan 2022 [Cavalcade: PostgreSQL-backed AMQP broker](https://tevps.net/blog/2022/01/16/cavalcade-amqp-broker)
+* 07 Nov 2021 [PoC Terraform Provider in Rust](https://tevps.net/blog/2021/11/07/poc-terraform-provider-rust)
+* 17 Oct 2021 [On Infrastructure: Mitogen](https://tevps.net/blog/2021/10/17/infrastructure-mitogen)
+* 10 Oct 2021 [Awesome Rust projects for Hacktoberfest](https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest)
+* 30 Sep 2021 [Paternoster](https://tevps.net/blog/2021/09/30/paternoster)
 <!-- blog ends -->
 
 </td><td valign="top">
