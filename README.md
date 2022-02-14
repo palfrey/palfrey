@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 14 Feb 2022 [babylonhealth/shipcat](https://github.com/babylonhealth/shipcat) - [[CLOUD-4621] Support cron values with <num>/num fields](https://github.com/babylonhealth/shipcat/pull/540)
 * 11 Feb 2022 [babylonhealth/shipcat](https://github.com/babylonhealth/shipcat) - [[CLOUD-4621] Validate cron schedules](https://github.com/babylonhealth/shipcat/pull/538)
 * 09 Feb 2022 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [rustzx has moved](https://github.com/rust-unofficial/awesome-rust/pull/1234)
 * 01 Feb 2022 [twisted/axiom](https://github.com/twisted/axiom) - [Python 3 port](https://github.com/twisted/axiom/pull/119)
 * 26 Jan 2022 [python/typeshed](https://github.com/python/typeshed) - [Set readline arg to be optionally None](https://github.com/python/typeshed/pull/7041)
-* 24 Dec 2021 [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - [Fix pypy CI version](https://github.com/gorakhargosh/watchdog/pull/864)
 <!-- prs ends -->
 
 </td></tr></table>
