@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 19 Feb 2022 [opacam/Cohen3](https://github.com/opacam/Cohen3) - [Document poetry version and update](https://github.com/opacam/Cohen3/pull/43)
 * 19 Feb 2022 [opacam/Cohen3](https://github.com/opacam/Cohen3) - [Add Python 3.9 to build matrix](https://github.com/opacam/Cohen3/pull/42)
 * 14 Feb 2022 [babylonhealth/shipcat](https://github.com/babylonhealth/shipcat) - [[CLOUD-4621] Support cron values with <num>/num fields](https://github.com/babylonhealth/shipcat/pull/540)
 * 11 Feb 2022 [babylonhealth/shipcat](https://github.com/babylonhealth/shipcat) - [[CLOUD-4621] Validate cron schedules](https://github.com/babylonhealth/shipcat/pull/538)
 * 09 Feb 2022 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [rustzx has moved](https://github.com/rust-unofficial/awesome-rust/pull/1234)
-* 01 Feb 2022 [twisted/axiom](https://github.com/twisted/axiom) - [Python 3 port](https://github.com/twisted/axiom/pull/119)
 <!-- prs ends -->
 
 </td></tr></table>
