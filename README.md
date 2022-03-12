@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 12 Mar 2022 [dankamongmen/libnotcurses-sys](https://github.com/dankamongmen/libnotcurses-sys) - [Remove serial_test_derive from deps](https://github.com/dankamongmen/libnotcurses-sys/pull/16)
 * 21 Feb 2022 [parallaxsecond/rust-cryptoki](https://github.com/parallaxsecond/rust-cryptoki) - [Remove serial_test_derive from deps](https://github.com/parallaxsecond/rust-cryptoki/pull/86)
 * 19 Feb 2022 [opacam/Cohen3](https://github.com/opacam/Cohen3) - [Document poetry version and update](https://github.com/opacam/Cohen3/pull/43)
 * 19 Feb 2022 [opacam/Cohen3](https://github.com/opacam/Cohen3) - [Add Python 3.9 to build matrix](https://github.com/opacam/Cohen3/pull/42)
 * 14 Feb 2022 [babylonhealth/shipcat](https://github.com/babylonhealth/shipcat) - [[CLOUD-4621] Support cron values with <num>/num fields](https://github.com/babylonhealth/shipcat/pull/540)
-* 11 Feb 2022 [babylonhealth/shipcat](https://github.com/babylonhealth/shipcat) - [[CLOUD-4621] Validate cron schedules](https://github.com/babylonhealth/shipcat/pull/538)
 <!-- prs ends -->
 
 </td></tr></table>
