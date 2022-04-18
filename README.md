@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 18 Apr 2022 [gristlabs/asttokens](https://github.com/gristlabs/asttokens) - [Upgrade mypy for pypy 3.8 support](https://github.com/gristlabs/asttokens/pull/81)
 * 10 Apr 2022 [gristlabs/asttokens](https://github.com/gristlabs/asttokens) - [Turns out pypy still breaks mypy](https://github.com/gristlabs/asttokens/pull/80)
 * 09 Apr 2022 [gristlabs/asttokens](https://github.com/gristlabs/asttokens) - [Typing support](https://github.com/gristlabs/asttokens/pull/72)
 * 09 Apr 2022 [gristlabs/asttokens](https://github.com/gristlabs/asttokens) - [Upgrade pypy test list to all the available ones](https://github.com/gristlabs/asttokens/pull/78)
 * 12 Mar 2022 [dankamongmen/libnotcurses-sys](https://github.com/dankamongmen/libnotcurses-sys) - [Remove serial_test_derive from deps](https://github.com/dankamongmen/libnotcurses-sys/pull/16)
-* 21 Feb 2022 [parallaxsecond/rust-cryptoki](https://github.com/parallaxsecond/rust-cryptoki) - [Remove serial_test_derive from deps](https://github.com/parallaxsecond/rust-cryptoki/pull/86)
 <!-- prs ends -->
 
 </td></tr></table>
