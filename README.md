@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 24 May 2022 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Run actions on PRs as well as pushes](https://github.com/jazzband/dj-database-url/pull/146)
 * 16 May 2022 [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - [Builds now uses Github, not Travis, so fix badge](https://github.com/redis-rs/redis-rs/pull/607)
 * 12 May 2022 [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - [Warning issues debug helper](https://github.com/gorakhargosh/watchdog/pull/865)
 * 18 Apr 2022 [gristlabs/asttokens](https://github.com/gristlabs/asttokens) - [Upgrade mypy for pypy 3.8 support](https://github.com/gristlabs/asttokens/pull/81)
 * 10 Apr 2022 [gristlabs/asttokens](https://github.com/gristlabs/asttokens) - [Turns out pypy still breaks mypy](https://github.com/gristlabs/asttokens/pull/80)
-* 09 Apr 2022 [gristlabs/asttokens](https://github.com/gristlabs/asttokens) - [Typing support](https://github.com/gristlabs/asttokens/pull/72)
 <!-- prs ends -->
 
 </td></tr></table>
