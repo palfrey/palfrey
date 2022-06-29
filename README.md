@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 29 Jun 2022 [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - [Upgrade enumset minimum version to one that compiles](https://github.com/wasmerio/wasmer/pull/2976)
 * 26 Jun 2022 [zkat/miette](https://github.com/zkat/miette) - [Doesn't compile with supports-color 1.0.4](https://github.com/zkat/miette/pull/182)
 * 05 Jun 2022 [celery/celery](https://github.com/celery/celery) - [Worker should exit with ctx.exit to get the right exitcode for non-zero cases](https://github.com/celery/celery/pull/7544)
 * 01 Jun 2022 [python/typeshed](https://github.com/python/typeshed) - [Add the missing fields to dj-database-url config type](https://github.com/python/typeshed/pull/8008)
 * 29 May 2022 [kprotty/usync](https://github.com/kprotty/usync) - [Add checks/badge for 1.59.0](https://github.com/kprotty/usync/pull/11)
-* 24 May 2022 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Add CockroachDB](https://github.com/jazzband/dj-database-url/pull/145)
 <!-- prs ends -->
 
 </td></tr></table>
