@@ -16,7 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
-
+* 31 Jul 2022 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Add ToC lint](https://github.com/rust-unofficial/awesome-rust/pull/1327)
+* 22 Jul 2022 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Removing all the archived repositories](https://github.com/rust-unofficial/awesome-rust/pull/1320)
+* 29 Jun 2022 [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - [Upgrade enumset minimum version to one that compiles](https://github.com/wasmerio/wasmer/pull/2976)
+* 26 Jun 2022 [zkat/miette](https://github.com/zkat/miette) - [Doesn't compile with supports-color 1.0.4](https://github.com/zkat/miette/pull/182)
+* 05 Jun 2022 [celery/celery](https://github.com/celery/celery) - [Worker should exit with ctx.exit to get the right exitcode for non-zero cases](https://github.com/celery/celery/pull/7544)
 <!-- prs ends -->
 
 </td></tr></table>
