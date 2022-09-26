@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 26 Sep 2022 [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - [Bump ddvk to 36](https://github.com/toltec-dev/toltec/pull/627)
 * 17 Sep 2022 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Upgrade diffy to fix ansi_term issue](https://github.com/rust-unofficial/awesome-rust/pull/1351)
 * 14 Aug 2022 [gristlabs/asttokens](https://github.com/gristlabs/asttokens) - [Fix mypy explicit re-export issues](https://github.com/gristlabs/asttokens/pull/90)
 * 08 Aug 2022 [tutorcruncher/django-jinja-bootstrap-form](https://github.com/tutorcruncher/django-jinja-bootstrap-form) - [Adds testing on PRs as well](https://github.com/tutorcruncher/django-jinja-bootstrap-form/pull/10)
 * 31 Jul 2022 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Add ToC lint](https://github.com/rust-unofficial/awesome-rust/pull/1327)
-* 22 Jul 2022 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Removing all the archived repositories](https://github.com/rust-unofficial/awesome-rust/pull/1320)
 <!-- prs ends -->
 
 </td></tr></table>
