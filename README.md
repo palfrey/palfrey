@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 25 Oct 2022 [tutorcruncher/django-jinja-bootstrap-form](https://github.com/tutorcruncher/django-jinja-bootstrap-form) - [CI test 3.6-3.9](https://github.com/tutorcruncher/django-jinja-bootstrap-form/pull/9)
 * 10 Oct 2022 [alexmojaki/executing](https://github.com/alexmojaki/executing) - [Add typing support](https://github.com/alexmojaki/executing/pull/57)
 * 09 Oct 2022 [Noxime/steamworks-rs](https://github.com/Noxime/steamworks-rs) - [Can get to serial_test_derive via serial_test](https://github.com/Noxime/steamworks-rs/pull/111)
 * 26 Sep 2022 [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - [Bump ddvk to 36](https://github.com/toltec-dev/toltec/pull/627)
 * 17 Sep 2022 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Upgrade diffy to fix ansi_term issue](https://github.com/rust-unofficial/awesome-rust/pull/1351)
-* 14 Aug 2022 [gristlabs/asttokens](https://github.com/gristlabs/asttokens) - [Fix mypy explicit re-export issues](https://github.com/gristlabs/asttokens/pull/90)
 <!-- prs ends -->
 
 </td></tr></table>
