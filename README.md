@@ -4,11 +4,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 
 ### On [my blog](https://tevps.net/blog)
 <!-- blog starts -->
+* 13 Nov 2022 [ESLint plugin to require preventDefault for onClick](https://tevps.net/blog/2022/11/13/require-preventdefault-for-onclick)
 * 08 Jun 2022 [Like LinkedIn, but you get paid to read the recruiter emails](https://tevps.net/blog/2022/06/08/linkedin-with-payment)
 * 05 Jun 2022 [Parallel for serial_test](https://tevps.net/blog/2022/06/05/parallel-serial-test)
 * 19 Mar 2022 [Tuvix: Experimental hermetic build engine with Starlark](https://tevps.net/blog/2022/03/19/tuvix)
 * 16 Jan 2022 [Cavalcade: PostgreSQL-backed AMQP broker](https://tevps.net/blog/2022/01/16/cavalcade-amqp-broker)
-* 07 Nov 2021 [PoC Terraform Provider in Rust](https://tevps.net/blog/2021/11/07/poc-terraform-provider-rust)
 <!-- blog ends -->
 
 </td><td valign="top">
