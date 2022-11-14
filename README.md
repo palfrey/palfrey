@@ -16,11 +16,11 @@ Current day job is with [Babylon Health](https://github.com/babylonhealth), but 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 14 Nov 2022 [joke2k/faker](https://github.com/joke2k/faker) - [Fix implicit Optional issues](https://github.com/joke2k/faker/pull/1748)
 * 14 Nov 2022 [rust-lang/rust](https://github.com/rust-lang/rust) - [Upgrade cc for working is_flag_supported on cross-compiles](https://github.com/rust-lang/rust/pull/103744)
 * 14 Nov 2022 [gruns/icecream](https://github.com/gruns/icecream) - [Github actions setup](https://github.com/gruns/icecream/pull/135)
 * 06 Nov 2022 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Upgrade actions](https://github.com/rust-unofficial/awesome-rust/pull/1368)
 * 05 Nov 2022 [llogiq/bytecount](https://github.com/llogiq/bytecount) - [Main branch name is master, not main](https://github.com/llogiq/bytecount/pull/79)
-* 01 Nov 2022 [llogiq/bytecount](https://github.com/llogiq/bytecount) - [Redo Linux/Mac CI with github actions](https://github.com/llogiq/bytecount/pull/78)
 <!-- prs ends -->
 
 </td></tr></table>
