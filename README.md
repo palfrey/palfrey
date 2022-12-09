@@ -1,4 +1,5 @@
-Current day job is with [Babylon Health](https://github.com/babylonhealth), but I also do a lot of open source work as well. See a few recent examples below, and I'm also a maintainer for [awesome-rust](https://github.com/rust-unofficial/awesome-rust).
+Current day job is currently TBD as I'm job hunting
+, but I also do a lot of open source work as well. See a few recent examples below, and I'm also a maintainer for [awesome-rust](https://github.com/rust-unofficial/awesome-rust).
 
 <table><tr><td valign="top">
 
