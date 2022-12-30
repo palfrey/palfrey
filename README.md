@@ -16,11 +16,11 @@ Current day job is currently TBD as [I'm job hunting](https://tevps.net/cv/), bu
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 30 Dec 2022 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Avoid duplicating the uses_netloc and schemes lines](https://github.com/jazzband/dj-database-url/pull/201)
+* 30 Dec 2022 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [100% test coverage](https://github.com/jazzband/dj-database-url/pull/202)
 * 21 Dec 2022 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Add types](https://github.com/jazzband/dj-database-url/pull/198)
 * 21 Dec 2022 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Better error on missing schema](https://github.com/jazzband/dj-database-url/pull/196)
 * 14 Nov 2022 [joke2k/faker](https://github.com/joke2k/faker) - [Fix implicit Optional issues](https://github.com/joke2k/faker/pull/1748)
-* 14 Nov 2022 [rust-lang/rust](https://github.com/rust-lang/rust) - [Upgrade cc for working is_flag_supported on cross-compiles](https://github.com/rust-lang/rust/pull/103744)
-* 14 Nov 2022 [gruns/icecream](https://github.com/gruns/icecream) - [Github actions setup](https://github.com/gruns/icecream/pull/135)
 <!-- prs ends -->
 
 </td></tr></table>
