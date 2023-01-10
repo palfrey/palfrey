@@ -16,11 +16,11 @@ Current day job is currently TBD as [I'm job hunting](https://tevps.net/cv/), bu
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 10 Jan 2023 [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - [[bug] futures-util <0.3.14 doesn't have Stream](https://github.com/sfackler/rust-postgres/pull/982)
 * 08 Jan 2023 [DavisRayM/django-filter-stubs](https://github.com/DavisRayM/django-filter-stubs) - [Add Github Actions CI](https://github.com/DavisRayM/django-filter-stubs/pull/14)
 * 03 Jan 2023 [rusty-celery/rusty-celery](https://github.com/rusty-celery/rusty-celery) - [Add Rustls support](https://github.com/rusty-celery/rusty-celery/pull/292)
 * 30 Dec 2022 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Avoid duplicating the uses_netloc and schemes lines](https://github.com/jazzband/dj-database-url/pull/201)
 * 30 Dec 2022 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [100% test coverage](https://github.com/jazzband/dj-database-url/pull/202)
-* 21 Dec 2022 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Add types](https://github.com/jazzband/dj-database-url/pull/198)
 <!-- prs ends -->
 
 </td></tr></table>
