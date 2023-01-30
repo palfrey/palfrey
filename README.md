@@ -16,11 +16,11 @@ Current day job is currently TBD as [I'm job hunting](https://tevps.net/cv/), bu
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 30 Jan 2023 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Throw warning if DATABASE_URL isn't set](https://github.com/jazzband/dj-database-url/pull/199)
+* 30 Jan 2023 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [isort 5.11.4 is broken](https://github.com/jazzband/dj-database-url/pull/205)
 * 10 Jan 2023 [opacam/Cohen3](https://github.com/opacam/Cohen3) - [Fix Build issues](https://github.com/opacam/Cohen3/pull/58)
 * 10 Jan 2023 [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - [[bug] futures-util <0.3.14 doesn't have Stream](https://github.com/sfackler/rust-postgres/pull/982)
 * 08 Jan 2023 [DavisRayM/django-filter-stubs](https://github.com/DavisRayM/django-filter-stubs) - [Add Github Actions CI](https://github.com/DavisRayM/django-filter-stubs/pull/14)
-* 03 Jan 2023 [rusty-celery/rusty-celery](https://github.com/rusty-celery/rusty-celery) - [Add Rustls support](https://github.com/rusty-celery/rusty-celery/pull/292)
-* 14 Nov 2022 [joke2k/faker](https://github.com/joke2k/faker) - [Fix implicit Optional issues](https://github.com/joke2k/faker/pull/1748)
 <!-- prs ends -->
 
 </td></tr></table>
