@@ -4,11 +4,11 @@ Current day job is currently TBD as [I'm job hunting](https://tevps.net/cv/), bu
 
 ### On [my blog](https://tevps.net/blog)
 <!-- blog starts -->
+* 31 Jan 2023 [Paracrine](https://tevps.net/blog/2023/01/31/paracrine)
 * 17 Jan 2023 [serial_test - 7 million downloads, and 1.0](https://tevps.net/blog/2023/01/17/serial_test-7-million-downloads-and-10)
 * 03 Jan 2023 [tagpy: Taking it over and doing a new release with wheels](https://tevps.net/blog/2023/01/03/tagpy)
 * 13 Nov 2022 [ESLint plugin to require preventDefault for onClick](https://tevps.net/blog/2022/11/13/require-preventdefault-for-onclick)
 * 08 Jun 2022 [Like LinkedIn, but you get paid to read the recruiter emails](https://tevps.net/blog/2022/06/08/linkedin-with-payment)
-* 05 Jun 2022 [Parallel for serial_test](https://tevps.net/blog/2022/06/05/parallel-serial-test)
 <!-- blog ends -->
 
 </td><td valign="top">
