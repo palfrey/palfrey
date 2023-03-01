@@ -16,11 +16,11 @@ Current day job is for [Doxy.me](https://github.com/doxyme), but I also do a lot
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 01 Mar 2023 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Ignore temporary redirects](https://github.com/rust-unofficial/awesome-rust/pull/1448)
 * 18 Feb 2023 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Upgrade always-upload-cache](https://github.com/rust-unofficial/awesome-rust/pull/1439)
 * 30 Jan 2023 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Throw warning if DATABASE_URL isn't set](https://github.com/jazzband/dj-database-url/pull/199)
 * 30 Jan 2023 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [isort 5.11.4 is broken](https://github.com/jazzband/dj-database-url/pull/205)
 * 10 Jan 2023 [opacam/Cohen3](https://github.com/opacam/Cohen3) - [Fix Build issues](https://github.com/opacam/Cohen3/pull/58)
-* 10 Jan 2023 [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - [[bug] futures-util <0.3.14 doesn't have Stream](https://github.com/sfackler/rust-postgres/pull/982)
 <!-- prs ends -->
 
 </td></tr></table>
