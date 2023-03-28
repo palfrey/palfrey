@@ -16,11 +16,11 @@ Current day job is for [Doxy.me](https://github.com/doxyme), but I also do a lot
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 28 Mar 2023 [DavisRayM/django-filter-stubs](https://github.com/DavisRayM/django-filter-stubs) - [Explicitly export all the filters from the rest_framework module](https://github.com/DavisRayM/django-filter-stubs/pull/18)
 * 28 Mar 2023 [rusty-celery/rusty-celery](https://github.com/rusty-celery/rusty-celery) - [Fix the minimal versions problem](https://github.com/rusty-celery/rusty-celery/pull/358)
 * 27 Mar 2023 [rusty-celery/rusty-celery](https://github.com/rusty-celery/rusty-celery) - [Bump chrono version for with_ymd_and_hms](https://github.com/rusty-celery/rusty-celery/pull/357)
 * 11 Mar 2023 [opacam/Cohen3](https://github.com/opacam/Cohen3) - [Fix mediadb str issues](https://github.com/opacam/Cohen3/pull/44)
 * 01 Mar 2023 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Ignore temporary redirects](https://github.com/rust-unofficial/awesome-rust/pull/1448)
-* 18 Feb 2023 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Upgrade always-upload-cache](https://github.com/rust-unofficial/awesome-rust/pull/1439)
 <!-- prs ends -->
 
 </td></tr></table>
