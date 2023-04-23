@@ -19,8 +19,8 @@ Current day job is for [Doxy.me](https://github.com/doxyme), but I also do a lot
 * 13 Apr 2023 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Redo as a package to fix mypy issues](https://github.com/jazzband/dj-database-url/pull/215)
 * 06 Apr 2023 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Remove all the travis build badges](https://github.com/rust-unofficial/awesome-rust/pull/1475)
 * 28 Mar 2023 [DavisRayM/django-filter-stubs](https://github.com/DavisRayM/django-filter-stubs) - [Explicitly export all the filters from the rest_framework module](https://github.com/DavisRayM/django-filter-stubs/pull/18)
-* 28 Mar 2023 [rusty-celery/rusty-celery](https://github.com/rusty-celery/rusty-celery) - [Fix the minimal versions problem](https://github.com/rusty-celery/rusty-celery/pull/358)
-* 27 Mar 2023 [rusty-celery/rusty-celery](https://github.com/rusty-celery/rusty-celery) - [Bump chrono version for with_ymd_and_hms](https://github.com/rusty-celery/rusty-celery/pull/357)
+* 11 Mar 2023 [opacam/Cohen3](https://github.com/opacam/Cohen3) - [Fix mediadb str issues](https://github.com/opacam/Cohen3/pull/44)
+* 01 Mar 2023 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Ignore temporary redirects](https://github.com/rust-unofficial/awesome-rust/pull/1448)
 <!-- prs ends -->
 
 </td></tr></table>
