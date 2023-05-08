@@ -16,11 +16,11 @@ Current day job is for [Doxy.me](https://github.com/doxyme), but I also do a lot
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 08 May 2023 [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv) - [On download failures, log the URL](https://github.com/ekalinin/nodeenv/pull/330)
 * 02 May 2023 [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - [Add config for Dell XPS 15 9520](https://github.com/NixOS/nixos-hardware/pull/613)
 * 13 Apr 2023 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Redo as a package to fix mypy issues](https://github.com/jazzband/dj-database-url/pull/215)
 * 06 Apr 2023 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Remove all the travis build badges](https://github.com/rust-unofficial/awesome-rust/pull/1475)
 * 28 Mar 2023 [DavisRayM/django-filter-stubs](https://github.com/DavisRayM/django-filter-stubs) - [Explicitly export all the filters from the rest_framework module](https://github.com/DavisRayM/django-filter-stubs/pull/18)
-* 28 Mar 2023 [rusty-celery/rusty-celery](https://github.com/rusty-celery/rusty-celery) - [Fix the minimal versions problem](https://github.com/rusty-celery/rusty-celery/pull/358)
 <!-- prs ends -->
 
 </td></tr></table>
