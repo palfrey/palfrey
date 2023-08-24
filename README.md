@@ -16,11 +16,11 @@ Current day job is with [Omnipresent](https://www.omnipresent.com/), but I also 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 24 Aug 2023 [buttplugio/buttplug](https://github.com/buttplugio/buttplug) - [Use tokio_native_tls for intiface compatibiity](https://github.com/buttplugio/buttplug/pull/577)
 * 24 Aug 2023 [buttplugio/buttplug](https://github.com/buttplugio/buttplug) - [Remove openssl](https://github.com/buttplugio/buttplug/pull/576)
 * 07 Jul 2023 [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - [Lights Out keymap for winry25t](https://github.com/qmk/qmk_firmware/pull/20538)
 * 04 Jun 2023 [koiuo/randrctl](https://github.com/koiuo/randrctl) - [Can't list all both long _and_ scored](https://github.com/koiuo/randrctl/pull/34)
 * 04 Jun 2023 [koiuo/randrctl](https://github.com/koiuo/randrctl) - [Replace Travis with Github actions](https://github.com/koiuo/randrctl/pull/35)
-* 08 May 2023 [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv) - [On download failures, log the URL](https://github.com/ekalinin/nodeenv/pull/330)
 <!-- prs ends -->
 
 </td></tr></table>
