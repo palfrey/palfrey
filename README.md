@@ -16,11 +16,11 @@ Current day job is with [Omnipresent](https://www.omnipresent.com/), but I also 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 11 Sep 2023 [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - [[serverless] Add functionResponseType toStream](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66664)
 * 07 Sep 2023 [dougmoscrop/serverless-http](https://github.com/dougmoscrop/serverless-http) - [Add Github actions](https://github.com/dougmoscrop/serverless-http/pull/287)
 * 04 Sep 2023 [metabrainz/metabrainz.org](https://github.com/metabrainz/metabrainz.org) - [Non-commercial donate link was broken](https://github.com/metabrainz/metabrainz.org/pull/429)
 * 24 Aug 2023 [buttplugio/buttplug](https://github.com/buttplugio/buttplug) - [Use tokio_native_tls for intiface compatibiity](https://github.com/buttplugio/buttplug/pull/577)
 * 24 Aug 2023 [buttplugio/buttplug](https://github.com/buttplugio/buttplug) - [Remove openssl](https://github.com/buttplugio/buttplug/pull/576)
-* 07 Jul 2023 [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - [Lights Out keymap for winry25t](https://github.com/qmk/qmk_firmware/pull/20538)
 <!-- prs ends -->
 
 </td></tr></table>
