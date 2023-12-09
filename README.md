@@ -16,11 +16,11 @@ Current day job is with [Omnipresent](https://www.omnipresent.com/), but I also 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 09 Dec 2023 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [OPTIONS cannot be None given our code](https://github.com/jazzband/dj-database-url/pull/232)
 * 27 Nov 2023 [Julius2342/pyvlx](https://github.com/Julius2342/pyvlx) - [Uses a Semaphore to limit API calls to one at a time to avoid KLF issues](https://github.com/Julius2342/pyvlx/pull/353)
 * 22 Nov 2023 [Julius2342/pyvlx](https://github.com/Julius2342/pyvlx) - [Adds typing support](https://github.com/Julius2342/pyvlx/pull/338)
 * 12 Nov 2023 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Remove hengine entry, as it's no longer in the repo](https://github.com/rust-unofficial/awesome-rust/pull/1601)
 * 13 Oct 2023 [hyperium/hyper](https://github.com/hyperium/hyper) - [Upgrade minimum tokio to 1.13](https://github.com/hyperium/hyper/pull/3345)
-* 05 Oct 2023 [Eeems-Org/oxide](https://github.com/Eeems-Org/oxide) - [xdg-settings wasn't getting installed](https://github.com/Eeems-Org/oxide/pull/329)
 <!-- prs ends -->
 
 </td></tr></table>
