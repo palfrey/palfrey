@@ -4,7 +4,11 @@ Current day job is with [Omnipresent](https://www.omnipresent.com/), but I also 
 
 ### On [my blog](https://tevps.net/blog)
 <!-- blog starts -->
-
+* 03 Sep 2023 [apt repository for Discord](https://tevps.net/blog/2023/09/03/apt-repository-for-discord)
+* 14 Jun 2023 [Migrating from PostgreSQL to CockroachDB](https://tevps.net/blog/2023/06/14/migrating-from-postgresql-to-cockroachdb)
+* 30 May 2023 ["Lights Out" with a keyboard](https://tevps.net/blog/2023/05/30/lights-out-with-a-keyboard)
+* 31 Jan 2023 [Paracrine](https://tevps.net/blog/2023/01/31/paracrine)
+* 17 Jan 2023 [serial_test - 7 million downloads, and 1.0](https://tevps.net/blog/2023/01/17/serial_test-7-million-downloads-and-10)
 <!-- blog ends -->
 
 </td><td valign="top">
