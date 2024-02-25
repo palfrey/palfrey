@@ -16,11 +16,11 @@ Current day job is with [Omnipresent](https://www.omnipresent.com/), but I also 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 25 Feb 2024 [MarkusJx/prebuilt-boost](https://github.com/MarkusJx/prebuilt-boost) - [Add Python 3.12 to build](https://github.com/MarkusJx/prebuilt-boost/pull/10)
 * 20 Feb 2024 [apple/foundationdb](https://github.com/apple/foundationdb) - [Add javadoc and fix the Java API link](https://github.com/apple/foundationdb/pull/11213)
 * 18 Feb 2024 [rust-cross/rust-musl-cross](https://github.com/rust-cross/rust-musl-cross) - [Re-enable mips](https://github.com/rust-cross/rust-musl-cross/pull/142)
 * 17 Feb 2024 [typeddjango/django-stubs](https://github.com/typeddjango/django-stubs) - [[5.0] Add django.db.models.GeneratedField](https://github.com/typeddjango/django-stubs/pull/1944)
 * 04 Feb 2024 [wimglenn/pytest-structlog](https://github.com/wimglenn/pytest-structlog) - [Typing fixes](https://github.com/wimglenn/pytest-structlog/pull/27)
-* 29 Dec 2023 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Fix lots of 301s](https://github.com/rust-unofficial/awesome-rust/pull/1628)
 <!-- prs ends -->
 
 </td></tr></table>
