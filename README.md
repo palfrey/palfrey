@@ -16,11 +16,11 @@ Current day job is with [Omnipresent](https://www.omnipresent.com/), but I also 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 15 Apr 2024 [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - [Upgrade stale action to fix running out of operations](https://github.com/obsidianmd/obsidian-releases/pull/3344)
 * 17 Mar 2024 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Actions upgrade for node 16 issues](https://github.com/rust-unofficial/awesome-rust/pull/1684)
 * 09 Mar 2024 [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k) - [Fix 3.12 build](https://github.com/AndyTheFactory/newspaper4k/pull/619)
 * 27 Feb 2024 [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k) - [Update numpy/pandas for better 3.12 support](https://github.com/AndyTheFactory/newspaper4k/pull/618)
 * 26 Feb 2024 [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k) - [Basic mypy support](https://github.com/AndyTheFactory/newspaper4k/pull/613)
-* 26 Feb 2024 [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k) - [Make Python 3.8 the minimum](https://github.com/AndyTheFactory/newspaper4k/pull/614)
 <!-- prs ends -->
 
 </td></tr></table>
