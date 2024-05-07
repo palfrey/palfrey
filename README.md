@@ -16,7 +16,11 @@ Current day job is with [Omnipresent](https://www.omnipresent.com/), but I also 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
-
+* 24 Apr 2024 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Because they should only slightly diff from main](https://github.com/rust-unofficial/awesome-rust/pull/1716)
+* 22 Apr 2024 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Remove links with more popular upstreams but less popular downstreams](https://github.com/rust-unofficial/awesome-rust/pull/1713)
+* 18 Apr 2024 [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - [Add plugin: Random names](https://github.com/obsidianmd/obsidian-releases/pull/3339)
+* 15 Apr 2024 [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - [Upgrade stale action to fix running out of operations](https://github.com/obsidianmd/obsidian-releases/pull/3344)
+* 17 Mar 2024 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Actions upgrade for node 16 issues](https://github.com/rust-unofficial/awesome-rust/pull/1684)
 <!-- prs ends -->
 
 </td></tr></table>
