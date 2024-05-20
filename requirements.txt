@@ -10,7 +10,7 @@ certifi==2023.7.22
     # via requests
 cfgv==3.1.0
     # via pre-commit
-chardet==3.0.4
+charset-normalizer==3.3.2
     # via requests
 click==7.1.2
     # via pip-tools
@@ -36,7 +36,7 @@ python-dateutil==2.8.1
     # via -r requirements.in
 pyyaml==5.4
     # via pre-commit
-requests==2.25.1
+requests==2.32.0
     # via -r requirements.in
 sgmllib3k==1.0.0
     # via feedparser
@@ -48,7 +48,7 @@ toml==0.10.1
     # via
     #   pep517
     #   pre-commit
-urllib3==1.26.6
+urllib3==1.26.18
     # via requests
 virtualenv==20.0.26
     # via pre-commit
