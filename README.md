@@ -16,11 +16,11 @@ Current day job is with [Omnipresent](https://www.omnipresent.com/), but I also 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 30 Jun 2024 [typeddjango/django-stubs](https://github.com/typeddjango/django-stubs) - [Add atomic_blocks to base DB wrapper](https://github.com/typeddjango/django-stubs/pull/2242)
 * 27 Jun 2024 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Use the easier to type dash for name separation](https://github.com/rust-unofficial/awesome-rust/pull/1755)
 * 11 May 2024 [sbdchd/celery-types](https://github.com/sbdchd/celery-types) - [Add various missing items from Celery (and related from billiard)](https://github.com/sbdchd/celery-types/pull/161)
 * 09 May 2024 [astral-sh/uv](https://github.com/astral-sh/uv) - [Annotate sources of requirements](https://github.com/astral-sh/uv/pull/3269)
 * 24 Apr 2024 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Because they should only slightly diff from main](https://github.com/rust-unofficial/awesome-rust/pull/1716)
-* 22 Apr 2024 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Remove links with more popular upstreams but less popular downstreams](https://github.com/rust-unofficial/awesome-rust/pull/1713)
 <!-- prs ends -->
 
 </td></tr></table>
