@@ -22,6 +22,8 @@ nodeenv==1.4.0
     # via pre-commit
 pep517==0.10.0
     # via pip-tools
+pip==24.2
+    # via pip-tools
 pip-tools==6.2.0
     # via -r requirements.in
 platformdirs==4.3.6
@@ -34,6 +36,8 @@ pyyaml==6.0.2
     # via pre-commit
 requests==2.32.2
     # via -r requirements.in
+setuptools==75.1.0
+    # via pip-tools
 sgmllib3k==1.0.0
     # via feedparser
 six==1.15.0
