@@ -1,6 +1,5 @@
 import json
 import pathlib
-import pprint
 import re
 
 import dateutil.parser
@@ -17,9 +16,7 @@ def replace_chunk(content, marker, chunk, inline=False):
     )
     if not inline:
         chunk = "\n{}\n".format(chunk)
-    chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(
-        marker, chunk, marker
-    )
+    chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
     return r.sub(chunk, content)
 
 
@@ -36,7 +33,7 @@ def fetch_blog_entries():
 def fetch_prs():
     try:
         repos = json.load(open("repos.json", "r"))
-    except:
+    except FileNotFoundError:
         repos = {}
 
     user = "palfrey"

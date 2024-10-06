@@ -1,8 +1,15 @@
-compile-requirements:
-	pip-compile --no-emit-index-url --no-header
+requirements.txt: requirements.in uv
+	./uv pip compile requirements.in -o requirements.txt
 
-pre-commit:
-	pre-commit run -a
+.venv/bin/activate:
+	./uv venv
 
-rebuild:
-	python build_readme.py
+.PHONY: sync
+sync: .venv/bin/activate requirements.txt
+	./uv pip sync requirements.txt
+
+rebuild: sync
+	./uv run python build_readme.py
+
+pre-commit: sync
+	./uv run pre-commit run -a
