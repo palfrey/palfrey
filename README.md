@@ -4,11 +4,11 @@ Current day job is with [Omnipresent](https://www.omnipresent.com/), but I also 
 
 ### On [my blog](https://tevps.net/blog)
 <!-- blog starts -->
+* 06 Oct 2024 [Sked and Eventbrite](https://tevps.net/blog/2024/10/06/sked-and-eventbrite)
 * 03 Aug 2024 [Updates to Paracrine](https://tevps.net/blog/2024/08/03/updates-to-paracrine)
 * 06 Jun 2024 [Home Zoom box](https://tevps.net/blog/2024/06/06/home-zoom-box)
 * 04 Apr 2024 [Home Assistant IP ban allow list plugin](https://tevps.net/blog/2024/04/04/home-assistant-ip-ban-allow-list-plugin)
 * 06 Jan 2024 [serial_test - 3.0.0, multi-key support](https://tevps.net/blog/2024/01/06/serial_test-300-multi-key-support)
-* 03 Sep 2023 [apt repository for Discord](https://tevps.net/blog/2023/09/03/apt-repository-for-discord)
 <!-- blog ends -->
 
 </td><td valign="top">
