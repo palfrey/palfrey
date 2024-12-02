@@ -16,11 +16,11 @@ Current day job is with [Omnipresent](https://www.omnipresent.com/), but I also 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 02 Dec 2024 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Replace failure with anyhow and thiserror](https://github.com/rust-unofficial/awesome-rust/pull/1847)
 * 10 Oct 2024 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Add Python 3.13 and Django 5.1 testing](https://github.com/jazzband/dj-database-url/pull/255)
 * 10 Oct 2024 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Make config test options not unknown types](https://github.com/jazzband/dj-database-url/pull/252)
 * 03 Aug 2024 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Add warning about bad hyphens](https://github.com/rust-unofficial/awesome-rust/pull/1779)
 * 30 Jun 2024 [typeddjango/django-stubs](https://github.com/typeddjango/django-stubs) - [Add atomic_blocks to base DB wrapper](https://github.com/typeddjango/django-stubs/pull/2242)
-* 27 Jun 2024 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - [Use the easier to type dash for name separation](https://github.com/rust-unofficial/awesome-rust/pull/1755)
 <!-- prs ends -->
 
 </td></tr></table>
