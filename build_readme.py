@@ -45,6 +45,8 @@ def fetch_prs():
     prs = []
     for pr in data.json()["items"]:
         repo_url = pr["repository_url"]
+        if "rust-unofficial/awesome-rust" in repo_url:
+            continue
         if repo_url not in repos:
             data = requests.get(repo_url)
             data.raise_for_status()
