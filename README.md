@@ -16,11 +16,11 @@ Current day job is with [Omnipresent](https://www.omnipresent.com/), but I also 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 17 Feb 2025 [dppdppd/The-Boardgame-Insert-Toolkit](https://github.com/dppdppd/The-Boardgame-Insert-Toolkit) - [Add Github CI](https://github.com/dppdppd/The-Boardgame-Insert-Toolkit/pull/85)
 * 20 Jan 2025 [taglib/taglib.github.io](https://github.com/taglib/taglib.github.io) - [Point to my maintained fork of tagpy](https://github.com/taglib/taglib.github.io/pull/9)
 * 06 Jan 2025 [MarkusJx/prebuilt-boost](https://github.com/MarkusJx/prebuilt-boost) - [feat: Add Python 3.13](https://github.com/MarkusJx/prebuilt-boost/pull/19)
 * 06 Jan 2025 [MarkusJx/prebuilt-boost](https://github.com/MarkusJx/prebuilt-boost) - [feat: Drop MacOS 12, add 15](https://github.com/MarkusJx/prebuilt-boost/pull/20)
 * 13 Dec 2024 [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - [Add logs on docker build failure](https://github.com/aws/aws-sam-cli/pull/7675)
-* 10 Oct 2024 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Add Python 3.13 and Django 5.1 testing](https://github.com/jazzband/dj-database-url/pull/255)
 <!-- prs ends -->
 
 </td></tr></table>
