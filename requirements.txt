@@ -26,7 +26,7 @@ python-dateutil==2.8.1
     # via -r requirements.in
 pyyaml==6.0.2
     # via pre-commit
-requests==2.32.2
+requests==2.32.4
     # via -r requirements.in
 sgmllib3k==1.0.0
     # via feedparser
