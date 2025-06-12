@@ -16,11 +16,11 @@ Current day job is with [Omnipresent](https://www.omnipresent.com/), but I also 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 11 Jun 2025 [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - [Generate bazel lints from Cargo.toml](https://github.com/TraceMachina/nativelink/pull/1820)
 * 10 Jun 2025 [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - [Re-enable doctests for nativelink-proto](https://github.com/TraceMachina/nativelink/pull/1824)
 * 07 Jun 2025 [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - [Use upstream buildstream packaging](https://github.com/TraceMachina/nativelink/pull/1815)
 * 04 Jun 2025 [algora-io/algora](https://github.com/algora-io/algora) - [ASDF fixes to make local build work](https://github.com/algora-io/algora/pull/145)
 * 01 Jun 2025 [dokku/dokku-redis](https://github.com/dokku/dokku-redis) - [Don't download default config](https://github.com/dokku/dokku-redis/pull/273)
-* 18 Apr 2025 [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - [Initial Remote asset support](https://github.com/TraceMachina/nativelink/pull/1646)
 <!-- prs ends -->
 
 </td></tr></table>
