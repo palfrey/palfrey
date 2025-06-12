@@ -16,11 +16,11 @@ Current day job is with [Omnipresent](https://www.omnipresent.com/), but I also 
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 12 Jun 2025 [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - [Make config references version-specific](https://github.com/TraceMachina/nativelink/pull/1823)
 * 12 Jun 2025 [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - [Override the reclient ToC with a working version](https://github.com/TraceMachina/nativelink/pull/1827)
 * 12 Jun 2025 [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - [Check example JSON5 files pass the parser](https://github.com/TraceMachina/nativelink/pull/1818)
 * 12 Jun 2025 [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - [Implements the internals of the remote asset protocol](https://github.com/TraceMachina/nativelink/pull/1816)
 * 11 Jun 2025 [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - [Generate bazel lints from Cargo.toml](https://github.com/TraceMachina/nativelink/pull/1820)
-* 10 Jun 2025 [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - [Re-enable doctests for nativelink-proto](https://github.com/TraceMachina/nativelink/pull/1824)
 <!-- prs ends -->
 
 </td></tr></table>
