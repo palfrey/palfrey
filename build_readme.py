@@ -37,7 +37,7 @@ def fetch_prs():
         repos = {}
 
     user = "palfrey"
-    query = f"is:pr author:{user} is:public -user:{user} is:merged"
+    query = f"is:pr author:{user} is:public -user:{user} is:merged -org:TraceMachina -repo:rust-unofficial/awesome-rust"
     url = f"https://api.github.com/search/issues?&q={query}&sort=updated&order=desc"
 
     data = requests.get(url)
@@ -45,8 +45,6 @@ def fetch_prs():
     prs = []
     for pr in data.json()["items"]:
         repo_url = pr["repository_url"]
-        if "rust-unofficial/awesome-rust" in repo_url:
-            continue
         if repo_url not in repos:
             data = requests.get(repo_url)
             data.raise_for_status()
