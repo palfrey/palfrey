@@ -25,4 +25,4 @@ Current day job is with [Omnipresent](https://www.omnipresent.com/), but I also 
 
 </td></tr></table>
 
-<a href="https://github.com/palfrey/palfrey/actions"><img src="https://github.com/palfrey/palfrey/workflows/Build%20README/badge.svg?branch=main" align="right" alt="Build README"></a> <a href="https://tevps.net/blog/2020/7/11/customising-github-profile-pages/">How this works</a>
+<a href="https://github.com/palfrey/palfrey/actions"><img src="https://github.com/palfrey/palfrey/actions/workflows/build.yml/badge.svg" align="right" alt="Build README"></a> <a href="https://tevps.net/blog/2020/7/11/customising-github-profile-pages/">How this works</a>
