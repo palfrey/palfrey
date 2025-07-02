@@ -32,7 +32,7 @@ sgmllib3k==1.0.0
     # via feedparser
 six==1.15.0
     # via python-dateutil
-urllib3==1.26.19
+urllib3==2.5.0
     # via requests
 virtualenv==20.26.6
     # via pre-commit
