@@ -6,7 +6,7 @@ requirements.txt: requirements.in uv
 
 .PHONY: sync
 sync: .venv/bin/activate requirements.txt
-	./uv pip sync requirements.txt
+	./uv pip sync --strict requirements.txt
 
 rebuild: sync
 	./uv run python build_readme.py
