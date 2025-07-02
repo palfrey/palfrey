@@ -1,0 +1,23 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    ":ignoreModulesAndTests",
+    "replacements:all",
+    "workarounds:all"
+  ],
+  // We want major versions or security updates, the rest we really don't care about
+  "packageRules": [
+    {
+      matchUpdateTypes: ["patch", "minor"],
+      enabled: false
+    },
+    {
+      matchPackageNames: ["*"],
+      automerge: true
+    },
+  ],
+  "vulnerabilityAlerts": {
+    "enabled": true
+  },
+  "osvVulnerabilityAlerts": true
+}
