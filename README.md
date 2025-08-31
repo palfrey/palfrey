@@ -16,11 +16,11 @@ Current day job is with [Trace Machina](https://tracemachina.com/), but I also d
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
-* 04 Jun 2025 [algora-io/algora](https://github.com/algora-io/algora) - [ASDF fixes to make local build work](https://github.com/algora-io/algora/pull/145)
-* 01 Jun 2025 [dokku/dokku-redis](https://github.com/dokku/dokku-redis) - [Don't download default config](https://github.com/dokku/dokku-redis/pull/273)
-* 16 Mar 2025 [asdf-vm/actions](https://github.com/asdf-vm/actions) - [docs: Document the action options](https://github.com/asdf-vm/actions/pull/588)
-* 17 Feb 2025 [dppdppd/The-Boardgame-Insert-Toolkit](https://github.com/dppdppd/The-Boardgame-Insert-Toolkit) - [Add Github CI](https://github.com/dppdppd/The-Boardgame-Insert-Toolkit/pull/85)
-* 20 Jan 2025 [taglib/taglib.github.io](https://github.com/taglib/taglib.github.io) - [Point to my maintained fork of tagpy](https://github.com/taglib/taglib.github.io/pull/9)
+* 27 Aug 2025 [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - [ent-go: Explicitly set runtime version](https://github.com/NixOS/nixpkgs/pull/437174)
+* 26 Aug 2025 [gruns/icecream](https://github.com/gruns/icecream) - [Mypy type checking](https://github.com/gruns/icecream/pull/167)
+* 01 Aug 2025 [koiuo/randrctl](https://github.com/koiuo/randrctl) - [Add py.typed](https://github.com/koiuo/randrctl/pull/40)
+* 22 Jul 2025 [koiuo/randrctl](https://github.com/koiuo/randrctl) - [Typing and xrandr path](https://github.com/koiuo/randrctl/pull/38)
+* 22 Jul 2025 [koiuo/randrctl](https://github.com/koiuo/randrctl) - [Update Python versions to 3.9-3.13](https://github.com/koiuo/randrctl/pull/39)
 <!-- prs ends -->
 
 </td></tr></table>
