@@ -4,11 +4,11 @@ Current day job is with [Trace Machina](https://tracemachina.com/), but I also d
 
 ### On [my blog](https://tevps.net/blog)
 <!-- blog starts -->
+* 17 Oct 2025 [Fuseki - playing Go on a Remarkable](https://tevps.net/blog/2025/10/17/fuseki-playing-go-on-a-remarkable)
 * 31 Dec 2024 [Shucker - URL stripping with licensing fun](https://tevps.net/blog/2024/12/31/shucker-url-stripping-with-licensing-fun)
 * 06 Oct 2024 [Sked and Eventbrite](https://tevps.net/blog/2024/10/06/sked-and-eventbrite)
 * 03 Aug 2024 [Updates to Paracrine](https://tevps.net/blog/2024/08/03/updates-to-paracrine)
 * 06 Jun 2024 [Home Zoom box](https://tevps.net/blog/2024/06/06/home-zoom-box)
-* 04 Apr 2024 [Home Assistant IP ban allow list plugin](https://tevps.net/blog/2024/04/04/home-assistant-ip-ban-allow-list-plugin)
 <!-- blog ends -->
 
 </td><td valign="top">
