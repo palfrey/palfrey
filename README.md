@@ -16,11 +16,11 @@ Current day job is with [Trace Machina](https://tracemachina.com/), but I also d
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 26 Oct 2025 [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - [Add fuseki and gnugo](https://github.com/toltec-dev/toltec/pull/949)
 * 20 Sep 2025 [toltec-dev/build](https://github.com/toltec-dev/build) - [Don't indent end-of-file marker](https://github.com/toltec-dev/build/pull/60)
 * 19 Sep 2025 [toltec-dev/toolchain](https://github.com/toltec-dev/toolchain) - [Bumping rust version](https://github.com/toltec-dev/toolchain/pull/43)
 * 08 Sep 2025 [toltec-dev/build](https://github.com/toltec-dev/build) - [Upgrade toolchain to v3](https://github.com/toltec-dev/build/pull/59)
 * 27 Aug 2025 [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - [ent-go: Explicitly set runtime version](https://github.com/NixOS/nixpkgs/pull/437174)
-* 26 Aug 2025 [gruns/icecream](https://github.com/gruns/icecream) - [Mypy type checking](https://github.com/gruns/icecream/pull/167)
 <!-- prs ends -->
 
 </td></tr></table>
