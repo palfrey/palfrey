@@ -16,11 +16,11 @@ Current day job is with [Trace Machina](https://tracemachina.com/), but I also d
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 09 Dec 2025 [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - [Add syncthingctl](https://github.com/toltec-dev/toltec/pull/957)
 * 07 Dec 2025 [MarkusJx/prebuilt-boost](https://github.com/MarkusJx/prebuilt-boost) - [Add Python 3.14](https://github.com/MarkusJx/prebuilt-boost/pull/28)
 * 27 Oct 2025 [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - [V3 mass upgrade](https://github.com/toltec-dev/toltec/pull/951)
 * 26 Oct 2025 [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - [Add fuseki and gnugo](https://github.com/toltec-dev/toltec/pull/949)
 * 20 Sep 2025 [toltec-dev/build](https://github.com/toltec-dev/build) - [Don't indent end-of-file marker](https://github.com/toltec-dev/build/pull/60)
-* 19 Sep 2025 [toltec-dev/toolchain](https://github.com/toltec-dev/toolchain) - [Bumping rust version](https://github.com/toltec-dev/toolchain/pull/43)
 <!-- prs ends -->
 
 </td></tr></table>
