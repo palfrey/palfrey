@@ -16,11 +16,11 @@ Current day job is with [Trace Machina](https://tracemachina.com/), but I also d
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 09 Apr 2026 [flathub/org.flatpak.Builder](https://github.com/flathub/org.flatpak.Builder) - [Update builder tools and make sure we don't break pip-generator](https://github.com/flathub/org.flatpak.Builder/pull/393)
 * 09 Apr 2026 [glujan/drpg](https://github.com/glujan/drpg) - [Check latest version in Github](https://github.com/glujan/drpg/pull/179)
 * 08 Apr 2026 [glujan/drpg](https://github.com/glujan/drpg) - [Lock actions to hashes](https://github.com/glujan/drpg/pull/177)
 * 05 Apr 2026 [glujan/drpg](https://github.com/glujan/drpg) - [Mark README as needing 3.10](https://github.com/glujan/drpg/pull/175)
 * 12 Feb 2026 [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - [Warn if someone tries to set DB on a sentinel connection](https://github.com/redis-rs/redis-rs/pull/1952)
-* 08 Feb 2026 [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - [test-macros needs syn full](https://github.com/redis-rs/redis-rs/pull/1951)
 <!-- prs ends -->
 
 </td></tr></table>
