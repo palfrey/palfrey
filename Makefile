@@ -2,7 +2,7 @@ requirements.txt: requirements.in
 	uv pip compile requirements.in -o requirements.txt
 
 .venv/bin/activate:
-	uv venv
+	uv venv --python=3.11
 
 .PHONY: sync
 sync: .venv/bin/activate requirements.txt
