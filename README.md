@@ -16,11 +16,11 @@ Current day job is with [Trace Machina](https://tracemachina.com/), but I also d
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
-* 01 Jul 2026 [glujan/drpg](https://github.com/glujan/drpg) - [Flatpak support](https://github.com/glujan/drpg/pull/180)
-* 01 Jul 2026 [glujan/drpg](https://github.com/glujan/drpg) - [Improve tests cleanups and coverage](https://github.com/glujan/drpg/pull/183)
-* 01 Jul 2026 [glujan/drpg](https://github.com/glujan/drpg) - [If product page returns a non-JSON, log it](https://github.com/glujan/drpg/pull/185)
-* 14 Apr 2026 [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) - [Make tachyonfx sendable to fix clippy warning](https://github.com/hyperb1iss/unifly/pull/14)
-* 09 Apr 2026 [flathub/org.flatpak.Builder](https://github.com/flathub/org.flatpak.Builder) - [Update builder tools and make sure we don't break pip-generator](https://github.com/flathub/org.flatpak.Builder/pull/393)
+* 08 Aug 2026 [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - [Adds workspace support to report command](https://github.com/taiki-e/cargo-llvm-cov/pull/500)
+* 08 Aug 2026 [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - [Fixes the current deny failures in CI](https://github.com/taiki-e/cargo-llvm-cov/pull/505)
+* 05 Aug 2026 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Give specific ruff version to avoid random failures](https://github.com/jazzband/dj-database-url/pull/317)
+* 30 Jul 2026 [glujan/drpg](https://github.com/glujan/drpg) - [Optionally don't log up-to-date](https://github.com/glujan/drpg/pull/191)
+* 29 Jul 2026 [glujan/drpg](https://github.com/glujan/drpg) - [Need apt update before installing flatpak](https://github.com/glujan/drpg/pull/192)
 <!-- prs ends -->
 
 </td></tr></table>
