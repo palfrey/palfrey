@@ -12,15 +12,13 @@ jobs:
     steps:
     - name: Check out repo
       uses: actions/checkout@v7
-    - name: Set up Python
-      uses: actions/setup-python@v6
-      with:
-        python-version: 3.11
+    - name: Install asdf & tools
+      uses: asdf-vm/actions/install@v4
     - uses: actions/cache@v6
-      name: Configure pip/precommit caching
+      name: Configure uv/precommit caching
       with:
         path: |
-          ~/.cache/pip
+          ~/.cache/uv
           ~/.cache/pre-commit
         key: ${{ runner.os }}-deps-${{ hashFiles('.pre-commit-config.yaml', 'requirements.txt') }}
         restore-keys: |
