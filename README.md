@@ -16,11 +16,11 @@ Current day job is with [Trace Machina](https://tracemachina.com/), but I also d
 ### Recently [merged pull requests](https://github.com/search?o=desc&q=is%3Apr+author%3Apalfrey+-user%3Apalfrey+is%3Amerged+is%3Apublic&s=created&type=Issues)
 
 <!-- prs starts -->
+* 17 Aug 2026 [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - [cargo-llvm-cov: 0.8.7 -> 0.9.0](https://github.com/NixOS/nixpkgs/pull/553435)
 * 08 Aug 2026 [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - [Adds workspace support to report command](https://github.com/taiki-e/cargo-llvm-cov/pull/500)
 * 08 Aug 2026 [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - [Fixes the current deny failures in CI](https://github.com/taiki-e/cargo-llvm-cov/pull/505)
 * 05 Aug 2026 [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - [Give specific ruff version to avoid random failures](https://github.com/jazzband/dj-database-url/pull/317)
 * 30 Jul 2026 [glujan/drpg](https://github.com/glujan/drpg) - [Optionally don't log up-to-date](https://github.com/glujan/drpg/pull/191)
-* 29 Jul 2026 [glujan/drpg](https://github.com/glujan/drpg) - [Need apt update before installing flatpak](https://github.com/glujan/drpg/pull/192)
 <!-- prs ends -->
 
 </td></tr></table>
