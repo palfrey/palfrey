@@ -27,6 +27,8 @@ jobs:
       run: |-
         make rebuild
         cat README.md
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Check precommit
       run: make pre-commit
     - name: Commit and push if changed

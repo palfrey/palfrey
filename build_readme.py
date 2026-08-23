@@ -1,4 +1,5 @@
 import json
+import os
 import pathlib
 import re
 
@@ -30,6 +31,9 @@ def fetch_blog_entries():
     )
 
 
+github_token = os.environ.get("GITHUB_TOKEN")
+
+
 def fetch_prs():
     try:
         repos = json.load(open("repos.json", "r"))
@@ -40,7 +44,10 @@ def fetch_prs():
     query = f"is:pr author:{user} is:public -user:{user} is:merged -org:TraceMachina -repo:rust-unofficial/awesome-rust"
     url = f"https://api.github.com/search/issues?&q={query}&sort=updated&order=desc"
 
-    data = requests.get(url)
+    headers = {}
+    if github_token is not None:
+        headers["Authorization"] = f"Bearer {github_token}"
+    data = requests.get(url, headers=headers)
     data.raise_for_status()
     prs = []
     for pr in data.json()["items"]:
