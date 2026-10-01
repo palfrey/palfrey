@@ -10,7 +10,7 @@ distlib==0.3.8
     # via virtualenv
 feedparser==6.0.8
     # via -r requirements.in
-filelock==4.0.0
+filelock==3.32.7
     # via
     #   python-discovery
     #   virtualenv
@@ -21,14 +21,12 @@ idna==3.15
 nodeenv==1.4.0
     # via pre-commit
 platformdirs==4.3.6
-    # via
-    #   python-discovery
-    #   virtualenv
+    # via virtualenv
 pre-commit==4.0.0
     # via -r requirements.in
 python-dateutil==2.8.1
     # via -r requirements.in
-python-discovery==1.1.0
+python-discovery==1.6.1
     # via virtualenv
 pyyaml==6.0.2
     # via pre-commit
@@ -40,5 +38,5 @@ six==1.15.0
     # via python-dateutil
 urllib3==2.8.0
     # via requests
-virtualenv==21.0.0
+virtualenv==21.7.13
     # via pre-commit
