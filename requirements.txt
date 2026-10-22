@@ -26,7 +26,7 @@ platformdirs==4.3.6
     #   virtualenv
 pre-commit==4.0.0
     # via -r requirements.in
-python-dateutil==2.8.1
+python-dateutil==3.0.0
     # via -r requirements.in
 python-discovery==1.1.0
     # via virtualenv
